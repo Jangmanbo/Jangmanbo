@@ -40,3 +40,17 @@
 **📌소개**
   * 타이핑이나 음성으로 일기를 작성하는 안드로이드 어플리케이션 
   * 그래프를 이용해 월별 감정 변화를 한 눈에 볼 수 있음
+
+* * *
+
+### Stereo Matching
+개발 인원|1인
+---|---|
+개발 기간|2021.12
+개발 언어|Python
+
+**Github**
+  * https://github.com/Jangmanbo/Stereo_Matching
+
+**📌소개**
+  * 2개의 translation image의 corresponding point를 찾아 다양한 방법론을 사용하여 depth image를 생성
