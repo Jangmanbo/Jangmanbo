@@ -39,7 +39,7 @@
 
 **📌소개**
   * 타이핑이나 음성으로 일기를 작성하는 안드로이드 어플리케이션 
-  * 그래프를 이용해 월별 감정 변화를 한 눈에 볼 수 있음
+  * 그래프를 통해 월별 감정 변화를 체크
 
 * * *
 
@@ -54,3 +54,4 @@
 
 **📌소개**
   * 2개의 translation image의 corresponding point를 찾아 다양한 방법론을 사용하여 depth image를 생성
+  * patch size, cost degree 등의 설정값에 따라 최적의 depth image을 생성하는 것이 목표
