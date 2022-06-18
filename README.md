@@ -25,7 +25,22 @@
 
 
 * * *
+### 🌊Deep Sea🌊
+개발 인원|https://github.com/Deep-Sea-VR (2인)
+---|---|
+개발 기간|2022.5 – 2022.6
+개발 도구|Unity
+장르|VR 게임
+플랫폼|Oculus Quest 2
 
+**Github**
+  * https://github.com/Deep-Sea-VR/Deep-Sea
+
+**📌소개**
+  * Unity 환경에서 제작한 오큘러스 퀘스트2 VR 게임<br>
+  * 꿈 속에서 심해를 탐험하며 유적지 속에 숨겨진 보물 찾기
+
+* * *
 
 ### 📔감정 일기📔
 개발 인원|1인
