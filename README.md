@@ -35,7 +35,7 @@
   
 * * *
 ### 😈The Wicker Story😈
-개발 인원|https://github.com/GameJam2022-Wicker (5인)
+개발 인원|https://github.com/GameJam2022-Wicker (기획2, 아트1, 개발2)
 ---|---|
 개발 기간|2022.8
 개발 도구|Unity
